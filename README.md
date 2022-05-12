@@ -1,4 +1,18 @@
 # FragmentAndroid
-$ echo "text" | add-text-to-markdown README.md --section "section"
-![](image/fragment_1.PNG)
-![](image/fragment_2.PNG)
+<div align="center">
+  <p align="center">
+    Tab 1 untuk Input    
+</p>
+<img src="https://github.com/Kevv-thon/FragmentAndroid/blob/master/image/fragment_1.PNG" alt="alternatetext">
+
+</br>
+</br>
+</br>
+
+<p align="center">
+    Tab 2 untuk Hasil    
+</p>
+  <img src="https://github.com/Kevv-thon/FragmentAndroid/blob/master/image/fragment_2.PNG" alt="alternatetext">
+  </div>
+
+

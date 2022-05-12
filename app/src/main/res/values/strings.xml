@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">TAB 1</string>
+    <string name="tab_text_2">TAB 2</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="todo">TODO</string>
+    <string name="user_display_name">User Display Name</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="user_display_address">User Display Address</string>
+    <string name="user_display_number">User Display Number</string>
+    <string name="user_display_school">User Display School</string>
+    <string name="masukkan_alamat">Masukkan Alamat</string>
+    <string name="masukkan_no_telp">Masukkan No. Telp</string>
+    <string name="masukkan_sekolah">Masukkan Sekolah</string>
+</resources>
